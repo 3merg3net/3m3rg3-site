@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FFD700"/>
+      <stop offset="100%" stop-color="#FFF5C3"/>
+    </linearGradient>
+  </defs>
+  <rect width="256" height="256" fill="none"/>
+  <!-- simple winged-heart placeholder -->
+  <path d="M128 200c-40-34-88-54-88-98 0-26 20-46 46-46 18 0 31 8 42 22 11-14 24-22 42-22 26 0 46 20 46 46 0 44-48 64-88 98z" fill="url(#g)" stroke="#E5C25C" stroke-width="4"/>
+  <g fill="url(#g)" stroke="#E5C25C" stroke-width="4">
+    <path d="M52 88c-18 0-32 10-32 10 12 4 24 10 36 18 4-10 6-18-4-28z"/>
+    <path d="M204 88c18 0 32 10 32 10-12 4-24 10-36 18-4-10-6-18 4-28z"/>
+  </g>
+</svg>
